@@ -33,6 +33,7 @@ export const navRoutes = [
 
   export const designsProduct = [
     {
+        id: 1,
         img:'/products/Rectangle 11.png',
         title:'Ever',
         icon: '/icons/Tvit.png',
@@ -48,7 +49,8 @@ export const navRoutes = [
         likeImg:'Likes',
         viewImg:'Views',
         like: 23,
-        views: "4k"
+        views: "4k",
+        id: 2,
     },
     {
         img:'/products/Rectangle 11 (3).png',
@@ -57,7 +59,8 @@ export const navRoutes = [
         likeImg:'Likes',
         viewImg:'Views',
         like: 23,
-        views: "230k"
+        views: "230k",
+        id: 3,
     },
     {
         img:'/products/Rectangle 11 (5).png',
@@ -66,7 +69,8 @@ export const navRoutes = [
         likeImg:'Likes',
         viewImg:'Views',
         like: 23,
-        views: "23k"
+        views: "23k",
+        id: 4,
     },
     {
         img:'/products/Rectangle 11 (2).png',
@@ -75,7 +79,8 @@ export const navRoutes = [
         likeImg:'Likes',
         viewImg:'Views',
         like: 23,
-        views: "4k"
+        views: "4k",
+        id: 5,
     },
     {
         img:'/products/Rectangle 11 (4).png',
@@ -84,7 +89,8 @@ export const navRoutes = [
         likeImg:'Likes',
         viewImg:'Views',
         like: 23,
-        views: "230k"
+        views: "230k",
+        id: 6,
     }
   ]
   export const categories =[
